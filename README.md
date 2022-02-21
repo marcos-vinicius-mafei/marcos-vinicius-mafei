@@ -6,4 +6,3 @@
 - 🔭 I’m currently studying Web development at Kenzie Academy
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: iultimateeagle@gmail.com
-- ⚡ Fun fact: I LOVE EAGLES
