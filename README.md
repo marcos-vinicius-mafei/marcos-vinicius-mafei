@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marcos Mafei</h1>
-<h3 align="center">A passionate frontend developer! I've always loved technology and I'm becoming more and more fascinated and excited about everything the tech world has to offer. It's amazing to work with something you truly love.</h3>
+<h3>A passionate frontend developer! I've always loved technology and I'm becoming more and more fascinated and excited about everything the tech world has to offer. It's amazing to work with something you truly love.</h3>
 
-- 👨‍💻 My Portfolio: [https://marcos-mafei-portfolio.vercel.app/](https://marcos-mafei-portfolio.vercel.app/)
+<h4>- 👨‍💻 My Portfolio: [https://marcos-mafei-portfolio.vercel.app/](https://marcos-mafei-portfolio.vercel.app/)</h4>
 
-- 📜 My Resume: [https://gitconnected.com/v1/portfolio/marcos-vinicius-mafei](https://gitconnected.com/v1/portfolio/marcos-vinicius-mafei)
+<h4>- 📜 My Resume: [https://gitconnected.com/marcos-vinicius-mafei/resume](https://gitconnected.com/marcos-vinicius-mafei/resume)</h4>
 
-- 📫 How to reach me **marcosmafeimachado@gmail.com**
+<h4>- 📫 How to reach me **marcosmafeimachado@gmail.com**</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
