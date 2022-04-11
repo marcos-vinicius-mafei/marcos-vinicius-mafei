@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos Mafei</h1>
 <h3>A passionate frontend developer! I've always loved technology and I'm becoming more and more fascinated and excited about everything the tech world has to offer. It's amazing to work with something you truly love.</h3>
 
-<h4>- 👨‍💻 My Portfolio: <https://marcos-mafei-portfolio.vercel.app/> </h4>
+<h4>- 👨‍💻 My Portfolio: <a href="https://marcos-mafei-portfolio.vercel.app/" rel="noopener noreferrer" target="_blank">Click here</a> </h4>
 
 <h4>- 📜 My Resume: <a href="https://gitconnected.com/marcos-vinicius-mafei/resume" rel="noopener noreferrer" target="_blank">Click here</a> </h4>
 
