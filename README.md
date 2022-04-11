@@ -3,7 +3,7 @@
 
 <h4>- 👨‍💻 My Portfolio: <https://marcos-mafei-portfolio.vercel.app/> </h4>
 
-<h4>- 📜 My Resume: <a href="" rel="noopener noreferrer" target="_black">https://gitconnected.com/marcos-vinicius-mafei/resume</a> </h4>
+<h4>- 📜 My Resume: <a href="https://gitconnected.com/marcos-vinicius-mafei/resume" rel="noopener noreferrer" target="_black">Click here</a> </h4>
 
 **<h4>- 📫 How to reach me marcosmafeimachado@gmail.com</h4>**
 
