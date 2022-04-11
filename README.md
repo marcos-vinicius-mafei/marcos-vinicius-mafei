@@ -5,7 +5,7 @@
 
 <h4>- 📜 My Resume: [https://gitconnected.com/marcos-vinicius-mafei/resume](https://gitconnected.com/marcos-vinicius-mafei/resume)</h4>
 
-<h4>- 📫 How to reach me **marcosmafeimachado@gmail.com**</h4>
+**<h4>- 📫 How to reach me marcosmafeimachado@gmail.com</h4>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
