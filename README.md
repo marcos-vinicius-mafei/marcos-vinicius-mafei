@@ -19,12 +19,12 @@
 </br>
 </br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-vinicius-mafei&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcos-vinicius-mafei" /></p> 
+<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcos-vinicius-mafei&show_icons=true&locale=en&theme=dracula" alt="marcos-vinicius-mafei" /></p>
 
 </br>
 </br>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcos-vinicius-mafei&show_icons=true&locale=en&theme=dracula" alt="marcos-vinicius-mafei" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-vinicius-mafei&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcos-vinicius-mafei" /></p> 
 
 </br>
 </br>
