@@ -21,15 +21,15 @@
 
 <div style="display:flex;flex-direction:column;gap:10px">
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marcos-vinicius-mafei&show_icons=true&locale=en&theme=dracula" alt="marcos-vinicius-mafei" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=marcos-vinicius-mafei&show_icons=true&locale=en&theme=dracula" alt="marcos-vinicius-mafei" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-vinicius-mafei&theme=dracula" alt="marcos-vinicius-mafei" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-vinicius-mafei&theme=dracula" alt="marcos-vinicius-mafei" /></p>
 
 </div>
 
 <div style="display:flex;flex-direction:column;justify-content:center">
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-vinicius-mafei&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcos-vinicius-mafei" /></p> 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-vinicius-mafei&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcos-vinicius-mafei" /></p> 
 
 </div>
 
