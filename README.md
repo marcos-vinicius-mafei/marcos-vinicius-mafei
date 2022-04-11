@@ -19,14 +19,14 @@
 </br>
 </br>
 
-<p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcos-vinicius-mafei&show_icons=true&locale=en&theme=dracula" alt="marcos-vinicius-mafei" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcos-vinicius-mafei&show_icons=true&locale=en&theme=dracula" alt="marcos-vinicius-mafei" /></p>
 
 </br>
 </br>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-vinicius-mafei&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcos-vinicius-mafei" /></p> 
+<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-vinicius-mafei&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcos-vinicius-mafei" /></p> 
 
 </br>
 </br>
 
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-vinicius-mafei&theme=dracula" alt="marcos-vinicius-mafei" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-vinicius-mafei&theme=dracula" alt="marcos-vinicius-mafei" /></p>
