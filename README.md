@@ -24,7 +24,7 @@
 </br>
 </br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marcos-vinicius-mafei&show_icons=true&locale=en&theme=dracula" alt="marcos-vinicius-mafei" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=marcos-vinicius-mafei&show_icons=true&locale=en&theme=dracula" alt="marcos-vinicius-mafei" /></p>
 
 </br>
 </br>
