@@ -24,7 +24,8 @@
 </br>
 </br>
 
-<ul> <li><img align="left" src="https://i.imgur.com/8hYFPqW.png" alt="marcos-vinicius-mafei"/></li> <li><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-vinicius-mafei&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcos-vinicius-mafei-infos" /> </li></ul> 
+<img align="left" src="https://i.imgur.com/8hYFPqW.png" alt="marcos-vinicius-mafei"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-vinicius-mafei&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcos-vinicius-mafei-infos" />
 
 </br>
 </br>
