@@ -17,9 +17,9 @@
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-vinicius-mafei&show_icons=true&locale=en&layout=compact" alt="marcos-vinicius-mafei" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcos-vinicius-mafei&show_icons=true&locale=en&layout=compact&theme=dracula" alt="marcos-vinicius-mafei" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcos-vinicius-mafei&show_icons=true&locale=en" alt="marcos-vinicius-mafei" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcos-vinicius-mafei&show_icons=true&locale=en&theme=dracula" alt="marcos-vinicius-mafei" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-vinicius-mafei&" alt="marcos-vinicius-mafei" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-vinicius-mafei&theme=dracula" alt="marcos-vinicius-mafei" /></p>
 
