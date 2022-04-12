@@ -34,4 +34,4 @@
 </br>
 </br>
 
-![snake gif](https://github.com/marcos-vinicius-mafei/marcos-vinicius-mafei/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/marcos-vinicius-mafei/marcos-vinicius-mafei/blob/output/github-contribution-grid-snake.gif?palette=github-dark)
