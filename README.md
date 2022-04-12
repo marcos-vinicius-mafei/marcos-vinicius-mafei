@@ -30,3 +30,8 @@
 </br>
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-vinicius-mafei&theme=dracula" alt="marcos-vinicius-mafei" /></p>
+
+</br>
+</br>
+
+![snake gif](https://github.com/marcos-vinicius-mafei/marcos-vinicius-mafei/blob/output/github-contribution-grid-snake.gif)
