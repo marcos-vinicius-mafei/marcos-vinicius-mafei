@@ -34,4 +34,4 @@
 </br>
 </br>
 
-<img src="https://raw.githubusercontent.com/marcos-vinicius-mafei/marcos-vinicius-mafei/output/github-snake.svg?palette=github-dark"/>
+<img src="https://raw.githubusercontent.com/marcos-vinicius-mafei/marcos-vinicius-mafei/output/github-contribution-grid-snake.svg?palette=github-dark"/>
