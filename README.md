@@ -5,6 +5,8 @@
 
 <h4>- 📜 My Resume: <a href="https://marcos-vinicius-mafei.github.io/Resume/" rel="noopener noreferrer" target="_blank">Click here</a> </h4>
 
+<h4>- 🔶 GitLab: <a href="https://gitlab.com/marcos-vinicius-mafei" rel="noopener noreferrer" target="_blank">Click here</a> </h4>
+
 **<h4>- 📫 How to reach me marcosmafeimachado@gmail.com</h4>**
 
 <h3 align="left">Connect with me:</h3>
