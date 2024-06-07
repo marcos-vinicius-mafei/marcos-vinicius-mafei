@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos Vinícius Mafei Machado</h1>
-<h3 align="center">Full-Stack Web & Mobile Developer</h3>
+<h3 align="center">Full-Stack Web 🖥️ & Mobile Developer 📱</h3>
 
 - 🔭 I’m currently working on [Trinity Software House](https://trinityoficial.com)
 
