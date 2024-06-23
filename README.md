@@ -9,7 +9,7 @@
 
 - 👨‍💻 My portfolio [https://marcos-mafei-portfolio.vercel.app/](https://marcos-mafei-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, Next, React Native and Swift**
+- 💬 Ask me about **React, Next, React Native, Flutter and Swift**
 
 - 📫 How to reach me **marcosmafeimachado@gmail.com**
 
