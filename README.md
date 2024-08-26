@@ -3,13 +3,11 @@
 
 <br/>
 
-- 🔭 I’m currently working on [Trinity Software House](https://trinityoficial.com)
-
-- 🌱 I’m currently learning **UI Design**
+- 🔭 I’m currently seeking new growth opportunities
 
 - 👨‍💻 My portfolio [https://marcos-mafei-portfolio.vercel.app/](https://marcos-mafei-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, Next, React Native, Flutter and Swift**
+- 💬 Ask me about **React, Next, React Native, and Swift**
 
 - 📫 How to reach me **marcosmafeimachado@gmail.com**
 
