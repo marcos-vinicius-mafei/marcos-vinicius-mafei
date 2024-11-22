@@ -3,7 +3,6 @@
 
 <br/>
 
-- 🔭 I’m currently seeking new growth opportunities
 
 - 👨‍💻 My portfolio [https://marcos-mafei-portfolio.vercel.app/](https://marcos-mafei-portfolio.vercel.app/)
 
